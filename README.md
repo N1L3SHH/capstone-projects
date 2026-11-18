@@ -18,5 +18,5 @@ Hi, I'm a Data Analyst with a Bachelor of Computer Applications (BCA), specializ
 * **Data Engineering:** dbt, Google BigQuery
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Insert your LinkedIn URL here]
-* **Email:** [Insert your Email address here]
+* **LinkedIn:** https://www.linkedin.com/in/neelesh-kumar-601b9028a/
+* **Email:** neelesh82173@gmail.com
