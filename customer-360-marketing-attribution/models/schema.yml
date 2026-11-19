@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "One row per customer, containing their lifetime website activity."
+    columns:
+      - name: user_id
+        description: "The unique identifier for a customer."
+        tests:
+          - unique
+          - not_null
+      
+      - name: email
+        tests:
+          - not_null
+
+  - name: agg_marketing_channels
+    description: "Roll-up of customer acquisition by traffic source."
+    columns:
+      - name: traffic_source
+        tests:
+          - not_null
