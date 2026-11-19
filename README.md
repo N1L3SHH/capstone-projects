@@ -8,7 +8,7 @@ Hi, I'm a Data Analyst with a Bachelor of Computer Applications (BCA), specializ
 * **Tech Stack:** Google BigQuery, dbt, Power BI, SQL, DAX
 * **Summary:** An end-to-end data engineering pipeline transforming raw e-commerce data into a query-optimized Star Schema. Features a highly interactive DirectQuery Power BI dashboard to track customer acquisition, channel performance, and user engagement metrics.
 
-### 2. [Enterprise Business Intelligence Suite for a Multi-Region Company](./Enterprise Business Intelligence Suite for a Multi-Region Company/)
+### 2. [Enterprise Business Intelligence Suite for a Multi-Region Company](<./Enterprise Business Intelligence Suite for a Multi-Region Company/>)
 * **Tech Stack:** Power BI, DAX, SQL
 * **Summary:** An enterprise-grade business intelligence dashboard designed for regional stakeholders. Implemented Row-Level Security (RLS) using DAX to dynamically restrict data access based on sales territories and management tiers, ensuring strict data governance across multiple regions.
 
