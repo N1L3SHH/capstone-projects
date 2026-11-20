@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 An end-to-end data engineering and analytics pipeline designed to evaluate customer acquisition and marketing channel performance. This project transforms raw e-commerce data into an enterprise-grade interactive dashboard, utilizing a modern data stack to handle data modeling, cloud warehousing, and frontend visualization.
 
-![Dashboard Screenshot](link_to_your_powerbi_screenshot_here.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 *(View the full PDF export in the repository files)*
 
 ## 🛠 Architecture & Tech Stack
@@ -18,7 +18,7 @@ Transformed raw operational data into a clean, query-optimized Star Schema using
 * `agg_marketing_channels`: Aggregated fact table calculating total sessions, engagement clicks, and acquired customers per traffic source.
 
 ### dbt Pipeline Lineage (DAG)
-![dbt Lineage Graph](link_to_your_dbt_lineage_screenshot_here.png)
+![dbt Lineage Graph](dbt_lineage_dag.png)
 
 ## 📊 Dashboard & Key Metrics
 The frontend Power BI report features a custom JSON theme and a high Data-Ink ratio optimized for executive stakeholder consumption:
